@@ -1,10 +1,12 @@
 # Spring boot user authentication Application 
 
-One Paragraph of project description goes here
+Spring boot application to kick start any Spring API.
+This application uses **JWT** for authentication of the user and MongoDB as database. Use this application for 
+pre-configured User Management and authentication System.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development purposes. 
 
 ### Prerequisites
 
